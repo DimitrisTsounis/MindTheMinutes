@@ -6,3 +6,5 @@ When the meeting (or call) takes place, the creator of the meeting can login and
 After starting the meeting the creator can take meeting notes and for each item keep a description, a due date (if it is an actionable item), 
 a risk level (risk levels should be configurable on administration), note who requested this item and optionally assign the item to a person. 
 When the meeting ends, a mail template is constructed and sent to all meeting participants, except for the items that are not marked as Visible.
+
+You can visit our website at: https://mindtheminutes.azurewebsites.net/
